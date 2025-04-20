@@ -1,4 +1,4 @@
-Soccer Smash
+# Soccer Smash
 
 made with
 * Lua
